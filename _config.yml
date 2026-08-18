@@ -1,15 +1,6 @@
 title: Heritage Bridge Digital Twin
-description: Reusable Digital Workflows for Heritage Bridge Documentation
 
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
-
-color_scheme: light
-
-search_enabled: true
-
-aux_links:
-  GitHub Repository:
-    - https://github.com/TU-USUARIO/TU-REPOSITORIO
