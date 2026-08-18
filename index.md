@@ -1,23 +1,20 @@
 ---
 title: Home
 layout: home
-nav_order: 1
 ---
 
-# Heritage Bridge Digital Twin
+# ReDiW-Bridge
 
-A reusable digital workflow for the documentation and management of heritage bridges in Bath.
+Reusable Digital Workflows for Heritage Bridge Documentation,
+Conservation and Presentation.
 
-## Objectives
+## Project Overview
 
-- Heritage documentation
-- Point cloud acquisition
-- HBIM development
-- GIS integration
-- Digital twin implementation
+Research project exploring open workflows for the documentation, analysis and digital twin development of historic bridges in Bath (UK).
 
-## Explore
+## Case Studies
 
-- [Bridges](bridflows/
-- Datasets
-- publications/
+- Pulteney Bridge
+- Cleveland Bridge
+- Victoria Bridge
+- North Parade Bridge
