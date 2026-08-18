@@ -1,6 +1,0 @@
-title: Heritage Bridge Digital Twin
-
-remote_theme: just-the-docs/just-the-docs
-
-plugins:
-  - jekyll-remote-theme
